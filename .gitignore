@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian (if used as viewer)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Temporary
+*.tmp
+*.bak
+
+# Large files (add specific ones if needed)
+# raw/assets/*.mp4
