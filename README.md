@@ -133,7 +133,7 @@ Lint → fix contradictions, fill gaps → wiki gets healthier
 ## Credits
 
 Pattern by [Andrej Karpathy](https://x.com/karpathy) ([original post](https://x.com/karpathy/status/1907534867856990619), [full write-up](https://github.com/karpathy/llm-wiki)).
-Starter kit by [Jayant Chaudhary](https://github.com/JAYANTCH1797).
+Starter kit by [Jayant Chauhan](https://github.com/JAYANTCH1797).
 
 ## License
 
